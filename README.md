@@ -2,9 +2,10 @@
 
 ## I'm a beginner Java developer
 
-Latest Projects
 
-Languages and Tools
+### Languages and Tools
 ![Java](https://github.com/baimuhtar/baimuhtar/blob/main/icons/java.png)
 
-Follow me
+### Connect with me
+
+
