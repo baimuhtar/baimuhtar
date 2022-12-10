@@ -5,6 +5,6 @@
 Latest Projects
 
 Languages and Tools
-(https://github.com/baimuhtar/baimuhtar/blob/main/icons/java.png)
+![Java](https://github.com/baimuhtar/baimuhtar/blob/main/icons/java.png)
 
 Follow me
