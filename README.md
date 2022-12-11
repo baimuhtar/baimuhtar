@@ -4,7 +4,7 @@
 
 
 ### Languages and Tools
-[!(https://github.com/baimuhtar/baimuhtar/blob/main/icons/java.png)](https://github.com/baimuhtar)
+![(https://github.com/baimuhtar/baimuhtar/blob/main/icons/java.png)](https://github.com/baimuhtar)
 [!(https://github.com/baimuhtar/baimuhtar/blob/main/icons/spring.png)](https://github.com/baimuhtar)
 [!(https://github.com/baimuhtar/baimuhtar/blob/main/icons/sql.png)](https://github.com/baimuhtar)
 [![HTML](https://github.com/baimuhtar/baimuhtar/blob/main/icons/html.png)](https://github.com/baimuhtar)
