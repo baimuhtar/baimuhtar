@@ -18,6 +18,6 @@
 ### Connect with me
 
 [![LinkedIn](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/linkedin.png)](https://www.linkedin.com/in/mukhtar-baitanatov-a03978121/)
-[![Instagram](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/instagram.png)(https://www.instagram.com/baimuhtar/)
-[![Facebook](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/facebook.png)(https://www.facebook.com/mukhtar.baitanatov/)
+[![Instagram](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/instagram.png)](https://www.instagram.com/baimuhtar/)
+[![Facebook](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/facebook.png)](https://www.facebook.com/mukhtar.baitanatov/)
 
