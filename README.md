@@ -17,7 +17,7 @@
 [![Jira](https://github.com/baimuhtar/baimuhtar/blob/main/icons/jira.png)](https://github.com/baimuhtar)
 ### Connect with me
 
-![LinkedIn]
-![Instagram]
-![Facebook]
+[![LinkedIn](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/linkedin.png)](https://www.linkedin.com/in/mukhtar-baitanatov-a03978121/)
+[![Instagram](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/instagram.png)(https://www.instagram.com/baimuhtar/)
+[![Facebook](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/facebook.png)(https://www.facebook.com/mukhtar.baitanatov/)
 
