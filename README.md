@@ -45,17 +45,17 @@ ___
 ![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) IntelliJ IDEA development environment, Visual Studio Code, DataGrip
 
 ### Soft skills:
-<img src="./description_icon/plus2.png"> Problem solving skills
+<img src="./description_icon/plus2.png"> Time management skills
 
 <img src="./description_icon/plus2.png"> Decision-making skills
 
-<img src="./description_icon/plus2.png"> Time management skills
+<img src="./description_icon/plus2.png"> Problem solving skills
 
 <img src="./description_icon/plus2.png"> Communication skills
 
-<img src="./description_icon/plus2.png"> Interpersonal skills
-
 <img src="./description_icon/plus2.png"> Stress management
+
+<img src="./description_icon/plus2.png"> Interpersonal skills
 
 <img src="./description_icon/plus2.png"> Adaptability
 
