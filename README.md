@@ -22,7 +22,7 @@ ____
 [![Facebook](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/facebook.png)](https://www.facebook.com/mukhtar.baitanatov/)
 ___
 ### Hard skills:
-![plus](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Knowledge of the basics of programming
+![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Knowledge of the basics of programming
 
 ![plus](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Knowledge of design patterns
 
