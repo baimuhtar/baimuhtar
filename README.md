@@ -26,7 +26,7 @@ ___
 
 ![plus](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Knowledge of design patterns
 
-![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Understanding the principles of OOP
+![](C:\Users\runtime-809b-4\Desktop\baimuhtar\contact_icons\instagram.png)Understanding the principles of OOP
 
 ![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Understanding SOLID principles
 
