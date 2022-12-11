@@ -22,24 +22,28 @@ ____
 [![Facebook](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/facebook.png)](https://www.facebook.com/mukhtar.baitanatov/)
 ___
 ### Hard skills:
-<img height="16" src="C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png" width="16"/>Knowledge of the basics of programming
-Knowledge of design patterns
-Understanding the principles of OOP
-Understanding SOLID principles
-Programming language - Java SE
-IntelliJ IDEA development environment, Visual Studio Code, DataGrip
-Knowledge of the Git version control system (GitHub, Gitlab)
-Knowledge of basic frontend technologies HTML, CSS.
-Creating queries in the database – PostgreSQL, MySQL
-Hibernate, JDBC
-Knowledge of testing methodologies (SCRUM)
-Work in the Jira system
-Preparation and maintenance of test scenarios, bug reports, checklists
-Manual UI testing
-Understanding the software development lifecycle
-Ability to use API testing tools
-Installing/reinstalling Windows/VirtualBox and drivers
-English (B1 - Intermediate)
+![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Knowledge of the basics of programming
+
+![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Knowledge of design patterns
+
+![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Understanding the principles of OOP
+
+![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Understanding SOLID principles
+
+![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Programming language - Java SE
+
+![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") IntelliJ IDEA development environment, Visual Studio Code, DataGrip
+
+![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Knowledge of the Git version control system (GitHub, Gitlab)
+
+![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Knowledge of basic frontend technologies HTML, CSS.
+
+![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Creating queries in the database – PostgreSQL, MySQL
+
+![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Knowledge of testing methodologies (SCRUM)
+
+![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Understanding the software development lifecycle
+
 
 
 
