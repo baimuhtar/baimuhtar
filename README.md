@@ -20,6 +20,9 @@ ___
 [![LinkedIn](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/linkedin.png)](https://www.linkedin.com/in/mukhtar-baitanatov-a03978121/)
 [![Instagram](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/instagram.png)](https://www.instagram.com/baimuhtar/)
 [![Facebook](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/facebook.png)](https://www.facebook.com/mukhtar.baitanatov/)
+[![Twitter]]()(https://t.me/baimuhtar/)
+[![Telegram]]()(https://t.me/baimuhtar/)
+[![WhatsApp]]()(https://api.whatsapp.com/send?phone=87765168800)
 ___
 ### Hard skills:
 ![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Knowledge of design patterns
