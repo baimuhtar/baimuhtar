@@ -24,25 +24,25 @@ ___
 ### Hard skills:
 ![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Knowledge of the basics of programming
 
-![plus](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Knowledge of design patterns
+![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Knowledge of design patterns
 
-![](C:\Users\runtime-809b-4\Desktop\baimuhtar\contact_icons\instagram.png)Understanding the principles of OOP
+![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Understanding the principles of OOP
 
-![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Understanding SOLID principles
+![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Understanding SOLID principles
 
-![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Programming language - Java SE
+![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Programming language - Java SE
 
-![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") IntelliJ IDEA development environment, Visual Studio Code, DataGrip
+![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) IntelliJ IDEA development environment, Visual Studio Code, DataGrip
 
-![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Knowledge of the Git version control system (GitHub, Gitlab)
+![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Knowledge of the Git version control system (GitHub, Gitlab)
 
-![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Knowledge of basic frontend technologies HTML, CSS.
+![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Knowledge of basic frontend technologies HTML, CSS.
 
-![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Creating queries in the database – PostgreSQL, MySQL
+![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Creating queries in the database – PostgreSQL, MySQL
 
-![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Knowledge of testing methodologies (SCRUM)
+![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Knowledge of testing methodologies (SCRUM)
 
-![](C:\Users\runtime-809b-4\Desktop\baimuhtar\description_icon\plus.png "plus") Understanding the software development lifecycle
+![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Understanding the software development lifecycle
 
 
 
