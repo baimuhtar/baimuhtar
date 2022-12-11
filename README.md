@@ -4,7 +4,7 @@
 ______
 
 ### Languages and Tools
-[![plus (1)](https://user-images.githubusercontent.com/94222890/206892400-a4ec823e-9262-4a43-bbe7-f47e90c1e720.png))](https://github.com/baimuhtar)
+[![Java]([https://user-images.githubusercontent.com/94222890/206892400-a4ec823e-9262-4a43-bbe7-f47e90c1e720.png)(https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/java.png)](https://github.com/baimuhtar)
 [![Spring](https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/spring.png)](https://github.com/baimuhtar)
 [![SQL](https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/sql.png)](https://github.com/baimuhtar)
 [![HTML](https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/html.png)](https://github.com/baimuhtar)
